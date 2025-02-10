@@ -1,1 +1,1 @@
-echo "# Order-Food" >> README.md
+echo "# Order-Food"
